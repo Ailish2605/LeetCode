@@ -1,21 +1,20 @@
 class Solution:
-    def minimumPairRemoval(self, nums: List[int], ans = 0) -> int:
+    def minimumPairRemoval(self, nums: List[int]) -> int:
+        ans=0
+        while sorted(nums) != nums:
+            ans+=1
+            s = 0
+            m = float("inf")
+            n = 0
+            for i in range(1, len(nums)):
+                s = nums[i] + nums[i-1]
+                if s < m:
+                    m = s
+                    n = i
+            nums = nums[:n-1] + [m] + nums[n+1:]
+        return ans
 
-        def notSorted(nums: List[int]) -> bool:
-            for a, b in pairwise(nums):
-                if a > b: return True
-            return False
+
+            
 
         
-        while notSorted(nums):
-            minSum, mnIdx = inf, -1
-            
-            for i, pair in enumerate(pairwise(nums)):
-                if sum(pair) < minSum:
-                    minSum, mnIdx, delIdx = sum(pair), i, i+1
-            
-            nums[mnIdx] = minSum
-            del nums[delIdx]
-            ans+= 1
-            
-        return ans 
