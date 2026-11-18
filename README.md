@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ailish26/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ailish26/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ailish26/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ailish26/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ailish26/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ailish26/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ailish26/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Ailish26/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0125-valid-palindrome) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ailish26/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ailish26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ailish26/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ailish26/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Ailish26/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Ailish26/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ailish26/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ailish26/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ailish26/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ailish26/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ailish26/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ailish26/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
