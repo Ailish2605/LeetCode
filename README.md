@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ailish26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ailish26/LeetCode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Ailish26/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ailish26/LeetCode/tree/master/0204-count-primes) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ailish26/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ailish26/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ailish26/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Ailish26/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ailish26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ailish26/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ailish26/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ailish26/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ailish26/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ailish26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ailish26/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ailish26/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ailish26/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ailish26/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Ailish26/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ailish26/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ailish26/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ailish26/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ailish26/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ailish26/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Doubly-Linked List
 |  |
