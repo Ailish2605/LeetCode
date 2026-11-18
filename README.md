@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Ailish26/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ailish26/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ailish26/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Ailish26/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Ailish26/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ailish26/LeetCode/tree/master/0125-valid-palindrome) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ailish26/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ailish26/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Ailish26/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Ailish26/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ailish26/LeetCode/tree/master/0227-basic-calculator-ii) |
