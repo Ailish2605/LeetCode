@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ailish26/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ailish26/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ailish26/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Ailish26/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ailish26/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ailish26/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ailish26/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ailish26/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ailish26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ailish26/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ailish26/LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/Ailish26/LeetCode/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Ailish26/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ailish26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ailish26/LeetCode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ailish26/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
