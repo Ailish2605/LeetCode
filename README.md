@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ailish26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ailish26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ailish26/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ailish26/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ailish26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ailish26/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ailish26/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Ailish26/LeetCode/tree/master/1154-day-of-the-year) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ailish26/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1447-simplified-fractions](https://github.com/Ailish26/LeetCode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ailish26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ailish26/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/Ailish26/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ailish26/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -823,5 +826,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ailish26/LeetCode/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ailish?theme=light&font=Charmonman)
