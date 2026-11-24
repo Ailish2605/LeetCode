@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ailish26/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ailish26/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Ailish26/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ailish26/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Ailish26/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ailish26/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ailish26/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ailish26/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ailish26/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ailish26/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ailish26/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ailish26/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ailish26/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ailish26/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ailish26/LeetCode/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ailish26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ailish26/LeetCode/tree/master/0146-lru-cache) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ailish26/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
