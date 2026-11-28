@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ailish26/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-smallest-unique-subarray](https://github.com/Ailish26/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ailish26/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ailish26/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ailish26/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ailish26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ailish26/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ailish26/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ailish26/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ailish26/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ailish26/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ailish26/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ailish26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ailish26/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ailish26/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ailish26/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
